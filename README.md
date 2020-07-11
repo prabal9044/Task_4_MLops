@@ -9,8 +9,5 @@
 ++ Then i modified pre-created VGG16 model and add some new layers ro perform tranfer learning.
 ++ Then i train my model and save it in file.
 ++ Then i load the model and start predicting the images.
-## Accuracy : Approx 95 %
 
-# Blog Link :
-https://teknoboost.wordpress.com/2020/05/19/face-recognition-system-using-vgg16/
 
